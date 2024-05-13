@@ -1,2 +1,0 @@
-
-Elimando con Git ahora.
