@@ -1,3 +1,2 @@
-Hola, esto es un fichero de lectura para nuestro respositorio.
-
-Esto es una modificación.
+# Modificación mediante Github
+Esto es una modificación desde la web
